@@ -148,6 +148,7 @@ main {
     border-radius: 4px;
     font-weight: bold;
     transition: background-color 0.3s ease;
+    cursor: pointer;
 }
 
 .highlight .highlight-actions .btn-primary:hover {
@@ -161,6 +162,7 @@ main {
     padding: 0.8rem 1.5rem;
     border-radius: 4px;
     transition: background-color 0.3s ease;
+    cursor: pointer;
 }
 
 .highlight .highlight-actions .btn-secundary:hover {
