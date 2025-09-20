@@ -14,7 +14,7 @@ Um site criado como um teste para mais aprendizado.
 <br>
 
 <p align="center">
-  <img alt="Projeto the movie" src="./the-moviebox/assets/img/etT14XfDEqhQZdD47ywpyihXPyW.jpg" width="100%">
+  <img alt="Projeto the movie" src="./the-moviebox/assets/img/layout.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
