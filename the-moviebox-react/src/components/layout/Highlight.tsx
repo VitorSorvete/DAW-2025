@@ -1,6 +1,6 @@
 import React from 'react';
 
- export const Highlight: React.FC = () => {
+export const Highlight: React.FC = () => {
     const highlightBgUrl = "url('/img/etT14XfDEqhQZdD47ywpyihXPyW.jpg')";
     const overlayGradient = `linear-gradient(to right, rgba(17, 17, 17, 1) calc((50vw - 70px) - 340px), 
         rgba(17, 17, 17, 0.7) 50%, rgba(17, 17, 17, 0.7) 100%)`;
